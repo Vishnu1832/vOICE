@@ -1,0 +1,34 @@
+body
+{
+	text-align: center;
+	background-color:lime;
+}
+span
+{
+	font-size: 12px;
+	color: red;
+}
+canvas
+{
+	background: skyblue;
+	border-radius: 20px;
+}
+#sea
+{
+	height:180px;
+	width:300px;
+	margin-top:200px;
+}
+#donate_body
+{
+	background-color: skyblue;
+	text-align:center;
+}
+#sea_donate
+{
+	margin-top:200px;
+}
+#donate
+{
+	margin-left:30px;
+}
